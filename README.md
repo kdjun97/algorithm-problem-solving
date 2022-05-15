@@ -22,7 +22,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/2163) |  |
 |A | [Link](https://www.acmicpc.net/problem/2775) |  |
 |A | [Link](https://www.acmicpc.net/problem/2953) |  |
-|A | [Link](https://www.acmicpc.net/problem/3052) |  |
+|A | [Link](https://www.acmicpc.net/problem/3052) | O |
 |A | [Link](https://www.acmicpc.net/problem/5355) |  |
 |A | [Link](https://www.acmicpc.net/problem/1157) |  |
 |A | [Link](https://www.acmicpc.net/problem/1159) |  |
