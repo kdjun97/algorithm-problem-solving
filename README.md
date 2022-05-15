@@ -4,7 +4,7 @@ Used Language : `C++`
 
 `TODO List`  
 
-|Level | Link| Solve |
+|Level | Link| Solved |
 |------|-----|-------|
 |? | [Link](https://www.acmicpc.net/problem/1620) | O |
 |A | [Link](https://www.acmicpc.net/problem/2920) | O |
@@ -65,4 +65,65 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/9095) |  |
 |A | [Link](https://www.acmicpc.net/problem/10773) |  |
 |A | [Link](https://www.acmicpc.net/problem/2108) |  |
-|A | [Link](https://www.acmicpc.net/problem/1002) |  |
+|A | [Link](https://www.acmicpc.net/problem/1002) |  |  
+|B | [Link](https://www.acmicpc.net/problem/2606) |  |  
+|B | [Link](https://www.acmicpc.net/problem/1260) |  |  
+|B | [Link](https://www.acmicpc.net/problem/5639) |  |  
+|B | [Link](https://www.acmicpc.net/problem/2251) |  |  
+|B | [Link](https://www.acmicpc.net/problem/4963) |  |  
+|B | [Link](https://www.acmicpc.net/problem/14248) |  |  
+|B | [Link](https://www.acmicpc.net/problem/10026) |  |  
+|B | [Link](https://www.acmicpc.net/problem/2210) |  |  
+|B | [Link](https://www.acmicpc.net/problem/3135) |  |  
+|B | [Link](https://www.acmicpc.net/problem/9237) |  |  
+|B | [Link](https://www.acmicpc.net/problem/10162) |  |  
+|B | [Link](https://www.acmicpc.net/problem/11047) |  |  
+|B | [Link](https://www.acmicpc.net/problem/1541) |  |  
+|B | [Link](https://www.acmicpc.net/problem/15729) |  |  
+|B | [Link](https://www.acmicpc.net/problem/16435) |  |  
+|B | [Link](https://www.acmicpc.net/problem/1851) |  |  
+|B | [Link](https://www.acmicpc.net/problem/2806) |  |  
+|B | [Link](https://www.acmicpc.net/problem/11725) |  |  
+|B | [Link](https://www.acmicpc.net/problem/1167) |  |  
+|B | [Link](https://www.acmicpc.net/problem/3273) |  |  
+|B | [Link](https://www.acmicpc.net/problem/1806) |  |  
+|B | [Link](https://www.acmicpc.net/problem/11052) |  |  
+|B | [Link](https://www.acmicpc.net/problem/17212) |  |  
+|B | [Link](https://www.acmicpc.net/problem/17216) |  |  
+|B | [Link](https://www.acmicpc.net/problem/4150) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1107) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1476) |  |  
+|C | [Link](https://www.acmicpc.net/problem/15552) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1712) |  |  
+|C | [Link](https://www.acmicpc.net/problem/17213) |  |  
+|C | [Link](https://www.acmicpc.net/problem/17214) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2292) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2783) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2839) |  |  
+|C | [Link](https://www.acmicpc.net/problem/3000) |  |  
+|C | [Link](https://www.acmicpc.net/problem/3040) |  |  
+|C | [Link](https://www.acmicpc.net/problem/6571) |  |  
+|C | [Link](https://www.acmicpc.net/problem/15947) |  |  
+|C | [Link](https://www.acmicpc.net/problem/6321) |  |  
+|C | [Link](https://www.acmicpc.net/problem/17215) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1181) |  |  
+|C | [Link](https://www.acmicpc.net/problem/11004) |  |  
+|C | [Link](https://www.acmicpc.net/problem/11478) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1920) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1436) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2798) |  |  
+|C | [Link](https://www.acmicpc.net/problem/7568) |  |  
+|C | [Link](https://www.acmicpc.net/problem/11399) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1931) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2846) |  |  
+|C | [Link](https://www.acmicpc.net/problem/3663) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2142) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1018) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1062) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2580) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2661) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1182) |  |  
+|D | [Link](https://www.acmicpc.net/problem/10250) |  |  
+|D | [Link](https://www.acmicpc.net/problem/5397) |  |  
+|D | [Link](https://www.acmicpc.net/problem/1764) |  |  
+|D | [Link](https://www.acmicpc.net/problem/1937) |  |  
