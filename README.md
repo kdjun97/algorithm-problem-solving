@@ -23,12 +23,12 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/2775) |  |
 |A | [Link](https://www.acmicpc.net/problem/2953) |  |
 |A | [Link](https://www.acmicpc.net/problem/3052) | O |
-|A | [Link](https://www.acmicpc.net/problem/5355) |  |
+|A | [Link](https://www.acmicpc.net/problem/5355) | O |
 |A | [Link](https://www.acmicpc.net/problem/1157) |  |
-|A | [Link](https://www.acmicpc.net/problem/1159) |  |
-|A | [Link](https://www.acmicpc.net/problem/11721) |  |
+|A | [Link](https://www.acmicpc.net/problem/1159) | O |
+|A | [Link](https://www.acmicpc.net/problem/11721) | O |
 |A | [Link](https://www.acmicpc.net/problem/1316) |  |
-|A | [Link](https://www.acmicpc.net/problem/4659) |  |
+|A | [Link](https://www.acmicpc.net/problem/4659) | |
 |A | [Link](https://www.acmicpc.net/problem/5598) |  |
 |A | [Link](https://www.acmicpc.net/problem/5622) |  |
 |A | [Link](https://www.acmicpc.net/problem/8958) |  |
