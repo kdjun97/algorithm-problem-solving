@@ -60,7 +60,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/11653) |  |
 |A | [Link](https://www.acmicpc.net/problem/2217) |  |
 |A | [Link](https://www.acmicpc.net/problem/1065) |  |
-|A | [Link](https://www.acmicpc.net/problem/1934) |  |
+|A | [Link](https://www.acmicpc.net/problem/1934) | O |
 |A | [Link](https://www.acmicpc.net/problem/4949) |  |
 |A | [Link](https://www.acmicpc.net/problem/9095) |  |
 |A | [Link](https://www.acmicpc.net/problem/10773) |  |
