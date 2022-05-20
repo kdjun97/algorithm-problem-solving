@@ -5,7 +5,7 @@ using namespace std;
 
 vector<int> num;
 int gcd(int A, int B);
-int lcd(int A, int B);
+int lcm(int A, int B);
 
 int main(void) {
   ios_base::sync_with_stdio(0);
@@ -19,7 +19,7 @@ int main(void) {
   for (int i=0; i<T; i++) {
     int A,B;
     cin >> A >> B;
-    num.push_back(lcd(A,B));
+    num.push_back(lcm(A,B));
   }
 
   vector<int>::iterator it;
@@ -33,6 +33,6 @@ int gcd(int A, int B) {
   return (B==0) ? A : gcd(B,A%B);
 }
 
-int lcd(int A, int B) {
+int lcm(int A, int B) {
   return A*B / gcd(A,B);
 }
