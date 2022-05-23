@@ -29,11 +29,11 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/11721) | O |
 |A | [Link](https://www.acmicpc.net/problem/1316) |  |
 |A | [Link](https://www.acmicpc.net/problem/4659) | |
-|A | [Link](https://www.acmicpc.net/problem/5598) |  |
-|A | [Link](https://www.acmicpc.net/problem/5622) |  |
-|A | [Link](https://www.acmicpc.net/problem/8958) |  |
-|A | [Link](https://www.acmicpc.net/problem/10828) |  |
-|A | [Link](https://www.acmicpc.net/problem/11650) |  |
+|A | [Link](https://www.acmicpc.net/problem/5598) | O |
+|A | [Link](https://www.acmicpc.net/problem/5622) | O |
+|A | [Link](https://www.acmicpc.net/problem/8958) | O |
+|A | [Link](https://www.acmicpc.net/problem/10828) | O |
+|A | [Link](https://www.acmicpc.net/problem/11650) | O |
 |A | [Link](https://www.acmicpc.net/problem/1427) |  |
 |A | [Link](https://www.acmicpc.net/problem/18258) |  |
 |A | [Link](https://www.acmicpc.net/problem/11866) |  |
@@ -43,7 +43,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/10814) |  |
 |A | [Link](https://www.acmicpc.net/problem/10867) |  |
 |A | [Link](https://www.acmicpc.net/problem/11656) |  |
-|A | [Link](https://www.acmicpc.net/problem/1431) |  |
+|A | [Link](https://www.acmicpc.net/problem/1431) | O |
 |A | [Link](https://www.acmicpc.net/problem/1755) |  |
 |A | [Link](https://www.acmicpc.net/problem/2941) |  |
 |A | [Link](https://www.acmicpc.net/problem/14487) |  |
