@@ -53,7 +53,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/3062) | O |
 |A | [Link](https://www.acmicpc.net/problem/10834) |  |
 |A | [Link](https://www.acmicpc.net/problem/5585) |  |
-|A | [Link](https://www.acmicpc.net/problem/9546) |  |
+|A | [Link](https://www.acmicpc.net/problem/9546) | O |
 |A | [Link](https://www.acmicpc.net/problem/1049) |  |
 |A | [Link](https://www.acmicpc.net/problem/11724) |  |
 |A | [Link](https://www.acmicpc.net/problem/1463) |  |
@@ -64,7 +64,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/4949) |  |
 |A | [Link](https://www.acmicpc.net/problem/9095) |  |
 |A | [Link](https://www.acmicpc.net/problem/10773) |  |
-|A | [Link](https://www.acmicpc.net/problem/2108) |  |
+|A | [Link](https://www.acmicpc.net/problem/2108) | O |
 |A | [Link](https://www.acmicpc.net/problem/1002) |  |  
 |B | [Link](https://www.acmicpc.net/problem/2606) |  |  
 |B | [Link](https://www.acmicpc.net/problem/1260) |  |  
