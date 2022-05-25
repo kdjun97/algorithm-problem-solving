@@ -112,7 +112,7 @@ Used Language : `C++`
 |C | [Link](https://www.acmicpc.net/problem/1920) |  |  
 |C | [Link](https://www.acmicpc.net/problem/1436) |  |  
 |C | [Link](https://www.acmicpc.net/problem/2798) |  |  
-|C | [Link](https://www.acmicpc.net/problem/7568) |  |  
+|C | [Link](https://www.acmicpc.net/problem/7568) | O |  
 |C | [Link](https://www.acmicpc.net/problem/11399) |  |  
 |C | [Link](https://www.acmicpc.net/problem/1931) |  |  
 |C | [Link](https://www.acmicpc.net/problem/2846) |  |  
