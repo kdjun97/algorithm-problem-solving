@@ -20,7 +20,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/17210) | O |
 |A | [Link](https://www.acmicpc.net/problem/17211) |  |
 |A | [Link](https://www.acmicpc.net/problem/2163) |  |
-|A | [Link](https://www.acmicpc.net/problem/2775) |  |
+|A | [Link](https://www.acmicpc.net/problem/2775) | O |
 |A | [Link](https://www.acmicpc.net/problem/2953) | O |
 |A | [Link](https://www.acmicpc.net/problem/3052) | O |
 |A | [Link](https://www.acmicpc.net/problem/5355) | O |
@@ -110,7 +110,7 @@ Used Language : `C++`
 |C | [Link](https://www.acmicpc.net/problem/11004) |  |  
 |C | [Link](https://www.acmicpc.net/problem/11478) |  |  
 |C | [Link](https://www.acmicpc.net/problem/1920) |  |  
-|C | [Link](https://www.acmicpc.net/problem/1436) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1436) | O  |  
 |C | [Link](https://www.acmicpc.net/problem/2798) |  |  
 |C | [Link](https://www.acmicpc.net/problem/7568) | O |  
 |C | [Link](https://www.acmicpc.net/problem/11399) |  |  
