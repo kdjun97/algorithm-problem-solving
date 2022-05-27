@@ -110,8 +110,8 @@ Used Language : `C++`
 |C | [Link](https://www.acmicpc.net/problem/11004) |  |  
 |C | [Link](https://www.acmicpc.net/problem/11478) |  |  
 |C | [Link](https://www.acmicpc.net/problem/1920) |  |  
-|C | [Link](https://www.acmicpc.net/problem/1436) | O  |  
-|C | [Link](https://www.acmicpc.net/problem/2798) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1436) | O |  
+|C | [Link](https://www.acmicpc.net/problem/2798) | O |  
 |C | [Link](https://www.acmicpc.net/problem/7568) | O |  
 |C | [Link](https://www.acmicpc.net/problem/11399) |  |  
 |C | [Link](https://www.acmicpc.net/problem/1931) |  |  
