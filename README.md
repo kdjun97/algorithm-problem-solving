@@ -63,7 +63,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/1934) | O |
 |A | [Link](https://www.acmicpc.net/problem/4949) |  |
 |A | [Link](https://www.acmicpc.net/problem/9095) |  |
-|A | [Link](https://www.acmicpc.net/problem/10773) |  |
+|A | [Link](https://www.acmicpc.net/problem/10773) | O |
 |A | [Link](https://www.acmicpc.net/problem/2108) | O |
 |A | [Link](https://www.acmicpc.net/problem/1002) |  |  
 |B | [Link](https://www.acmicpc.net/problem/2606) |  |  
