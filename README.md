@@ -99,7 +99,7 @@ Used Language : `C++`
 |C | [Link](https://www.acmicpc.net/problem/17214) |  |  
 |C | [Link](https://www.acmicpc.net/problem/2292) |  |  
 |C | [Link](https://www.acmicpc.net/problem/2783) |  |  
-|C | [Link](https://www.acmicpc.net/problem/2839) |  |  
+|C | [Link](https://www.acmicpc.net/problem/2839) | O |  
 |C | [Link](https://www.acmicpc.net/problem/3000) |  |  
 |C | [Link](https://www.acmicpc.net/problem/3040) |  |  
 |C | [Link](https://www.acmicpc.net/problem/6571) |  |  
