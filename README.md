@@ -124,6 +124,6 @@ Used Language : `C++`
 |C | [Link](https://www.acmicpc.net/problem/2661) |  |  
 |C | [Link](https://www.acmicpc.net/problem/1182) |  |  
 |D | [Link](https://www.acmicpc.net/problem/10250) |  |  
-|D | [Link](https://www.acmicpc.net/problem/5397) |  |  
+|D | [Link](https://www.acmicpc.net/problem/5397) | O |  
 |D | [Link](https://www.acmicpc.net/problem/1764) |  |  
 |D | [Link](https://www.acmicpc.net/problem/1937) |  |  
