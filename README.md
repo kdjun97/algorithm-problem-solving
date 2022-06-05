@@ -106,7 +106,7 @@ Used Language : `C++`
 |C | [Link](https://www.acmicpc.net/problem/15947) |  |  
 |C | [Link](https://www.acmicpc.net/problem/6321) |  |  
 |C | [Link](https://www.acmicpc.net/problem/17215) |  |  
-|C | [Link](https://www.acmicpc.net/problem/1181) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1181) | O |  
 |C | [Link](https://www.acmicpc.net/problem/11004) |  |  
 |C | [Link](https://www.acmicpc.net/problem/11478) |  |  
 |C | [Link](https://www.acmicpc.net/problem/1920) |  |  
