@@ -85,7 +85,7 @@ Used Language : `C++`
 |B | [Link](https://www.acmicpc.net/problem/2806) |  |  
 |B | [Link](https://www.acmicpc.net/problem/11725) |  |  
 |B | [Link](https://www.acmicpc.net/problem/1167) |  |  
-|B | [Link](https://www.acmicpc.net/problem/3273) |  |  
+|B | [Link](https://www.acmicpc.net/problem/3273) | O |  
 |B | [Link](https://www.acmicpc.net/problem/1806) |  |  
 |B | [Link](https://www.acmicpc.net/problem/11052) |  |  
 |B | [Link](https://www.acmicpc.net/problem/17212) |  |  
