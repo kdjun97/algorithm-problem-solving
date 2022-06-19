@@ -39,7 +39,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/11866) |  |
 |A | [Link](https://www.acmicpc.net/problem/2164) | O |
 |A | [Link](https://www.acmicpc.net/problem/2822) |  |
-|A | [Link](https://www.acmicpc.net/problem/2693) |  |
+|A | [Link](https://www.acmicpc.net/problem/2693) | O |
 |A | [Link](https://www.acmicpc.net/problem/10814) |  |
 |A | [Link](https://www.acmicpc.net/problem/10867) |  |
 |A | [Link](https://www.acmicpc.net/problem/11656) | O |
