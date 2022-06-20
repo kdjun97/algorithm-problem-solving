@@ -94,7 +94,7 @@ Used Language : `C++`
 |C | [Link](https://www.acmicpc.net/problem/1107) |  |  
 |C | [Link](https://www.acmicpc.net/problem/1476) |  |  
 |C | [Link](https://www.acmicpc.net/problem/15552) |  |  
-|C | [Link](https://www.acmicpc.net/problem/1712) |  |  
+|C | [Link](https://www.acmicpc.net/problem/1712) | O |  
 |C | [Link](https://www.acmicpc.net/problem/17213) |  |  
 |C | [Link](https://www.acmicpc.net/problem/17214) |  |  
 |C | [Link](https://www.acmicpc.net/problem/2292) |  |  
