@@ -45,7 +45,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/11656) | O |
 |A | [Link](https://www.acmicpc.net/problem/1431) | O |
 |A | [Link](https://www.acmicpc.net/problem/1755) |  |
-|A | [Link](https://www.acmicpc.net/problem/2941) |  |
+|A | [Link](https://www.acmicpc.net/problem/2941) | O |
 |A | [Link](https://www.acmicpc.net/problem/14487) |  |
 |A | [Link](https://www.acmicpc.net/problem/1193) |  |
 |A | [Link](https://www.acmicpc.net/problem/3059) |  |
