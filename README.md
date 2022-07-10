@@ -36,7 +36,7 @@ Used Language : `C++`
 |A | [Link](https://www.acmicpc.net/problem/11650) | O |
 |A | [Link](https://www.acmicpc.net/problem/1427) |  |
 |A | [Link](https://www.acmicpc.net/problem/18258) |  |
-|A | [Link](https://www.acmicpc.net/problem/11866) |  |
+|A | [Link](https://www.acmicpc.net/problem/11866) | O |
 |A | [Link](https://www.acmicpc.net/problem/2164) | O |
 |A | [Link](https://www.acmicpc.net/problem/2822) |  |
 |A | [Link](https://www.acmicpc.net/problem/2693) | O |
